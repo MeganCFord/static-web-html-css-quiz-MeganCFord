@@ -26,12 +26,12 @@ article > header {
   font-size: .8em;
 }
 
-/*SECTION 1 (information) STYLING*/
+/* SECTION 1 (information) STYLING */
 .product-image {
   display: block;
   margin: 15px auto;
   width: 150px;
-  height: 150px; /*updated to have image sizes in CSS not HTML per comment*/
+  height: 150px; 
 }
 
 
@@ -54,7 +54,7 @@ div.product-description p {
   line-height: 1.5em;
 }
 
-/*changed to have sections 2 and 3 be the same- ok since only section 2 has a p */
+/* SECTION 2 and 3 STYLING */
 
 .specifications h3 {
   font-size: .9em;
